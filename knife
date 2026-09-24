@@ -6,4 +6,4 @@ silentaim=true
 firerate=true
 espbox=true
 setscore=true
-spamchat=false
+spamchat=true
